@@ -1,0 +1,8 @@
+{
+  "name": "<REPLACE_WITH_YOUR_NAME>",
+  "id": "<REPLACE_WITH_YOUR_ID>",
+  "api": "1.0.0",
+  "main": "dist/api.js",
+  "ui": "dist/index.html",
+  "editorType": ["figma"]
+}
