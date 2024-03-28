@@ -1,6 +1,6 @@
 export enum MessageTypes {
-  SelectionChange = 'Polychrom_SelectionChange',
-  UiReady = 'Polychrom_UiReady',
+  SelectionChange = 'Plugin_SelectionChange',
+  UiReady = 'Plugin_UiReady',
 }
 
 export interface MessagePayload<T> {
